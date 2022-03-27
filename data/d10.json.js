@@ -1,0 +1,1 @@
+window.repositoryObject = {"object_id":"d10","name":"VHN","description":null,"summary":[{"field":"Host","value":"MANUAL"},{"field":"Database","value":"MANUAL10"},{"field":"DBMS","value":"Manual"}],"modules":[{"id":"m117","name":"vhn"}],"dbObjects":[{"count":28,"id":"d10t","name":"Tables"}],"show_schema":false};
